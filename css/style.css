@@ -106,7 +106,7 @@ body {
 .main3 {
   width: 1440px;
   height: 600px;
-  background-image: url("/Users/ikedataisei/Creative Cloud Files/Portfolio ver2/img/christopher-gower-m_HRfLhgABo-unsplash.jpg");
+  background-image: url("https://github.com/taisei101/portfolio/blob/master/christopher-gower-m_HRfLhgABo-unsplash.jpg?raw=true");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
