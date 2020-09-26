@@ -239,7 +239,7 @@ body {
 .main5 {
   width: 1440px;
   height: 750px;
-  background-image: url("/Users/ikedataisei/Creative Cloud Files/Portfolio ver2/img/neven-krcmarek-HWbxSLvmSww-unsplash.jpg");
+  background-image: url("https://raw.githubusercontent.com/taisei101/portfolio/master/neven-krcmarek-HWbxSLvmSww-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
